@@ -28,7 +28,7 @@ To understand the **entire** analysis as delivered, these **three resources** ar
 
 | Resource | Contents |
 |----------|----------|
-|[Full PDF report](Analyse_de_donnee_pedigree.pdf)** | Executive summary, hypotheses, six illustrated analyses, conclusion, biases, and integrated appendix. |
+|[Full PDF report](Analyse_de_donnee_pedigree.pdf) | Executive summary, hypotheses, six illustrated analyses, conclusion, biases, and integrated appendix. |
 | **[Full SQL appendix](./appendix_sql_full.md)** | Extraction and data-structuring queries. |
 | **[Full Python (Pandas) appendix](./appendix_pandas_full.md)** | Post-SQL processing: aggregations, quantiles, deduplication, metrics aligned with the report. |
 
