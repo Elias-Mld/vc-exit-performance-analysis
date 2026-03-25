@@ -28,11 +28,9 @@ To understand the **entire** analysis as delivered, these **three resources** ar
 
 | Resource | Contents |
 |----------|----------|
-| **[Full PDF report](ADD%232/audit7.pdf)** | Executive summary, hypotheses, six illustrated analyses, conclusion, biases, and integrated appendix. |
-| **[Full SQL appendix](ADD%232/appendix_sql_full.md)** | Extraction and data-structuring queries. |
-| **[Full Python (Pandas) appendix](ADD%232/appendix_pandas_full.md)** | Post-SQL processing: aggregations, quantiles, deduplication, metrics aligned with the report. |
-
-> If the PDF link fails on GitHub: the folder is named `ADD#2`; in the file URL, encode `#` as `%23`.
+[Full PDF report](Analyse_de_donnee_pedigree.pdf) Executive summary, hypotheses, six illustrated analyses, conclusion, biases, and integrated appendix. |
+| **[Full SQL appendix](./appendix_sql_full.md)** | … | Extraction and data-structuring queries. |
+| **[Full Python (Pandas) appendix](./appendix_pandas_full.md)** | … | Post-SQL processing: aggregations, quantiles, deduplication, metrics aligned with the report. |
 
 ## Author
 
